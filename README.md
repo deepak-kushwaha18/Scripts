@@ -22,4 +22,11 @@
 - **Script 8**: Demonstrates how to take user input in Bash using `read` and `read -p` for interactive prompts.
   
 - **Script 9**: Demonstrates various **arithmetic operations** in Bash using different methods like `(( ))`, `let`, `expr`, and `bc` (basic calculator). It covers addition, subtraction, multiplication, division, modulus, exponentiation, and square root with decimal precision.
+  
+- **Script 10**: Demonstrates **if, if-else, nested if, and if-elif-else** statements in Bash to check numbers, even/odd, and age classification.
+  
+- **Script 11**: Implements a **basic calculator** using a `case` statement in Bash, supporting addition, subtraction, multiplication, division, and modulus operations.
+  
+- **Script 12**: Demonstrates various uses of the **for loop** in Bash, including iterating over lists, number ranges, arrays, file contents, and directory files.
+
 
